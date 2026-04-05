@@ -38,7 +38,7 @@ ocamlopt -o day_XX day_XX.ml
 where XX is replaced by the number of the day 
 
 
-> **Note:** Puzzle inputs are personal to each AoC account and are not committed to this repo. Add your own `input_XX.txt` to the folder before running a compiled solution 
+> **Note:** Puzzle inputs are personal to each AoC account and are not committed to this repo. Add your own `inputXX.txt` to the folder before running a compiled solution 
 
 ---
 
